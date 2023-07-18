@@ -1,4 +1,4 @@
-pydantic -U
+pydantic==1.10.11
 pydantic_core
 streamlit
 PyPDF2
