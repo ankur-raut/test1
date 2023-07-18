@@ -1,5 +1,5 @@
-streamlit==0.87.0
-langchain==0.0.1
-PyPDF2==1.26.0
-shutil==1.7.0
-speechrecognition==3.8.1
+streamlit
+langchain
+PyPDF2
+shutil
+speechrecognition
