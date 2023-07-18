@@ -3,4 +3,5 @@ langchain
 PyPDF2
 Cohere
 chromadb
+chroma-migrate
 speechrecognition
