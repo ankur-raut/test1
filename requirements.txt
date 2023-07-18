@@ -180,8 +180,8 @@ PyAudio==0.2.12
 pycodestyle==2.8.0
 pycparser==2.21
 pycryptodome==3.15.0
-pydantic==1.10.11
-pydantic_core==2.1.2
+pydantic
+pydantic_core
 pydeck==0.7.1
 Pygments==2.11.1
 pyinstaller==5.4.1
