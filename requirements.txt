@@ -142,13 +142,11 @@ networkx==2.8.2
 notebook==6.4.6
 notebook-shim==0.1.0
 numexpr==2.8.4
-numpy==1.25.1
+numpy
 oauthlib==3.2.0
 onnxruntime==1.15.1
 openai==0.27.8
 openapi-schema-pydantic==1.2.4
-opencv-contrib-python==4.6.0.66
-opencv-python==4.5.5.64
 opt-einsum==3.3.0
 outcome==1.2.0
 overrides==7.3.1
