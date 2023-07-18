@@ -1,7 +1,6 @@
 pydantic
 pydantic_core
 streamlit
-langchain
 PyPDF2
 Cohere
 chromadb==0.3.27
