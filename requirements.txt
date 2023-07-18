@@ -1,4 +1,4 @@
-pydantic==1.10.11
+pydantic==1.9
 pydantic_core
 streamlit
 PyPDF2
@@ -15,7 +15,6 @@ backoff==2.2.1
 certifi==2023.5.7
 charset-normalizer==3.2.0
 openai==0.27.8
-openapi-schema-pydantic==1.2.4
 click==8.1.4
 clickhouse-connect==0.6.6
 colorama==0.4.6
