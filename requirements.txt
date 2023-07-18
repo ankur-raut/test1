@@ -35,7 +35,7 @@ httptools==0.6.0
 humanfriendly==10.0
 idna==3.4
 importlib-metadata==6.8.0
-langchain==0.0.230
+langchain==0.0.173
 langchainplus-sdk==0.0.20
 lz4==4.3.2
 marshmallow==3.19.0
