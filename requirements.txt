@@ -1,9 +1,9 @@
+pydantic
+pydantic_core
 streamlit
 langchain
 PyPDF2
 Cohere
-pydantic
-pydantic_core
 chromadb==0.3.27
 speechrecognition
 aiohttp==3.8.4
